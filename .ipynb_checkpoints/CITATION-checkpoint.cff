@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or these models, please cite the article below."
+title: "<REPO TITLE>"
+type: software
+authors:
+  - family-names: "<FAMILY>"
+    given-names: "<GIVEN>"
+    orcid: "https://orcid.org/<0000-0000-0000-0000>"
+repository-code: "https://github.com/<ORG>/<REPO>"
+license: MIT
+preferred-citation:
+  type: article
+  title: "<PAPER TITLE>"
+  authors:
+    - family-names: "<FAMILY>"
+      given-names: "<GIVEN>"
+  journal: "<JOURNAL>"
+  year: <YEAR>
+  doi: "<PAPER DOI>"

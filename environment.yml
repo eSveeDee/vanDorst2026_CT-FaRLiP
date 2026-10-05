@@ -1,0 +1,22 @@
+name: <ENV NAME>
+channels:
+  - conda-forge
+dependencies:
+  # Pin every line to the version you actually ran before tagging a release.
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - networkx
+  - scikit-learn
+  - scikit-image
+  - trimesh
+  - rtree
+  - pyvista
+  - pyyaml
+  - mrcfile
+  - biopython
+  - jupyterlab
+  - ipykernel
