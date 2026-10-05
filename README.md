@@ -12,7 +12,7 @@ In-cell cryo-ET, subtomogram averaging and hyperspectral CLEM of
 
 ## Contents
 
-| File | Purpose | Main input | Figure |
+| File | Purpose | Main input |
 |---|---|---|---|
 | `notebooks/pbs_row_assignment_graph_clustering.ipynb` | Clean a RELION 5 template-matching particle list by assigning phycobilisome (PBS) row identities (spatial + angular graph clustering), gap filling, duplicate removal, row-wise halfsets | particle STAR, boundary masks 
 | `scripts/assign_spline_membrane_angles.py` | Assign per-spline median Euler angle priors from MPicker picks to a STOPGAP spline motivelist | STOPGAP STAR, MPicker angle file 
