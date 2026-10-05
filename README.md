@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1405994748.svg)](https://doi.org/10.5281/zenodo.23168747)
+
 # Far-Red Light Photoacclimation Rewires Antenna-Photosystem Organization in Cyanobacterial Cells
 
 Analysis code and composite atomic models accompanying:
