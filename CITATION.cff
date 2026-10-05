@@ -15,4 +15,8 @@ authors:
   - family-names: "Engel"
     given-names: "B. D."
 repository-code: "https://github.com/eSveeDee/vanDorst2026_CT-FaRLiP"
+<<<<<<< HEAD
 license: MIT
+=======
+license: MIT
+>>>>>>> fe21908 (Fill in metadata)

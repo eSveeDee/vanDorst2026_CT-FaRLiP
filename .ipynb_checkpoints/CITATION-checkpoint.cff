@@ -1,19 +1,18 @@
 cff-version: 1.2.0
-message: "If you use this code or these models, please cite the article below."
-title: "<REPO TITLE>"
+message: "If you use this code or these models, please cite it as below."
+title: "Analysis code and composite models for: Far-Red Light Photoacclimation Rewires Antenna-Photosystem Organization in Cyanobacterial Cells"
 type: software
 authors:
-  - family-names: "<FAMILY>"
-    given-names: "<GIVEN>"
-    orcid: "https://orcid.org/<0000-0000-0000-0000>"
-repository-code: "https://github.com/<ORG>/<REPO>"
+  - family-names: "Dorst"
+    name-particle: "van"
+    given-names: "Sofie"
+  - family-names: "Selinger"
+    given-names: "V. M."
+  - family-names: "Nürnberg"
+    given-names: "D. J."
+  - family-names: "Wietrzynski"
+    given-names: "W."
+  - family-names: "Engel"
+    given-names: "B. D."
+repository-code: "https://github.com/eSveeDee/vanDorst2026_CT-FaRLiP"
 license: MIT
-preferred-citation:
-  type: article
-  title: "<PAPER TITLE>"
-  authors:
-    - family-names: "<FAMILY>"
-      given-names: "<GIVEN>"
-  journal: "<JOURNAL>"
-  year: <YEAR>
-  doi: "<PAPER DOI>"
