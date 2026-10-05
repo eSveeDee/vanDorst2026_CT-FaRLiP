@@ -2,9 +2,8 @@
 
 Analysis code and composite atomic models accompanying:
 
-> S. van Dorst, V.M. Selinger, D.J. Nürnberg, W. Wietrzynski, B.D. Engel (2026). **Far-Red Light Photoacclimation Rewires Antenna-Photosystem Organization in Cyanobacterial Cells**. <bioRxiv>. doi:<PAPER DOI>
+> S. van Dorst, V.M. Selinger, D.J. Nürnberg, W. Wietrzynski, B.D. Engel (2026). **Far-Red Light Photoacclimation Rewires Antenna-Photosystem Organization in Cyanobacterial Cells**. Manuscript in preparation.
 
-Archived release: [![DOI](https://zenodo.org/badge/DOI/<ZENODO DOI>.svg)](https://doi.org/<ZENODO DOI>)
 
 Scripts used for hsCLEM, subtomogram averaging, spatial analysis of particles, and pigment distance calculations.
 
@@ -45,8 +44,8 @@ python scripts/assign_spline_membrane_angles.py <spline_motl.star> <mpicker_angl
 
 | Data | Accession |
 |---|---|
-| Subtomogram averages | EMD-<XXXXX> |
-| Tomograms / tilt series | EMPIAR-<XXXXX> |
+| Subtomogram averages | EMD-XXXXX (pending) |
+| Tomograms / tilt series | EMPIAR-XXXXX (pending) |
 | Composite models | this repository, `models/` |
 
 ## Licence

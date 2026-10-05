@@ -8,7 +8,7 @@ from MPicker as the source.
 
 Usage
 -----
-    python assign_spline_mem_angles.py <spline_motl.star> <mpicker_angles.txt>
+    python assign_spline_membrane_angles.py <spline_motl.star> <mpicker_angles.txt>
 
 Arguments
 ---------

@@ -7,13 +7,13 @@ therefore not deposited in the PDB.
 
 | File | Description | Fitted into | Source models |
 |---|---|---|---|
-| `frl-PBS-PSII.cif` | *frl*-PBS-PSII supercomplex | EMD-<XXXXX> | 9I1R, 9T5T |
-| `frl-PBS-PSI.cif` | *frl*-PBS-PSI supercomplex | EMD-<XXXXX> | 9I1R, 9EYS |
-| `wl-PBS-PSII.cif` | *wl*-PBS-PSII supercomplex | EMD-<XXXXX> | 7EYD, 7N8O |
+| `frl-PBS-PSII.cif` | *frl*-PBS-PSII supercomplex | EMD-XXXXX (pending) | 9I1R, 9T5T |
+| `frl-PBS-PSI.cif` | *frl*-PBS-PSI supercomplex | EMD-XXXXX (pending) | 9I1R, 9EYS |
+| `wl-PBS-PSII.cif` | *wl*-PBS-PSII supercomplex | EMD-XXXXX (pending) | 7EYD, 7N8O |
 
 ## How they were built
 
-Maps were assembled by rigid body fitting in ChimeraX/1.11.
+Models were assembled by rigid body fitting in ChimeraX/1.11.
 
 ## Licence
 
