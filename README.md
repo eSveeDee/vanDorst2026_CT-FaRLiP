@@ -2,18 +2,16 @@
 
 Analysis code and composite atomic models accompanying:
 
-> <S. van Dorst, V.M. Selinger, D.J. Nürnberg, W. Wietrzynski, B.D. Engel> (<YEAR>). *Far-Red Light Photoacclimation Rewires Antenna-Photosystem Organization in Cyanobacterial Cells
-*. <bioRxiv>. doi:<PAPER DOI>
+> S. van Dorst, V.M. Selinger, D.J. Nürnberg, W. Wietrzynski, B.D. Engel (2026). **Far-Red Light Photoacclimation Rewires Antenna-Photosystem Organization in Cyanobacterial Cells**. <bioRxiv>. doi:<PAPER DOI>
 
 Archived release: [![DOI](https://zenodo.org/badge/DOI/<ZENODO DOI>.svg)](https://doi.org/<ZENODO DOI>)
 
-In-cell cryo-ET, subtomogram averaging and hyperspectral CLEM of
-*Chroococcidiopsis thermalis* grown under white light (WL) and far-red light (FRL).
+Scripts used for hsCLEM, subtomogram averaging, spatial analysis of particles, and pigment distance calculations.
 
 ## Contents
 
 | File | Purpose | Main input |
-|---|---|---|---|
+|---|---|---|
 | `notebooks/pbs_row_assignment_graph_clustering.ipynb` | Clean a RELION 5 template-matching particle list by assigning phycobilisome (PBS) row identities (spatial + angular graph clustering), gap filling, duplicate removal, row-wise halfsets | particle STAR, boundary masks 
 | `scripts/assign_spline_membrane_angles.py` | Assign per-spline median Euler angle priors from MPicker picks to a STOPGAP spline motivelist | STOPGAP STAR, MPicker angle file 
 | `notebooks/compare_two_particle_row_lists.ipynb` | Row-aware comparison of WL and FRL PBS particle lists: row lengths, within-row pair distances / g(r), within-row angles, row spacing | two particle STARs 
