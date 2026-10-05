@@ -1,4 +1,4 @@
-# <PAPER TITLE>
+# Far-Red Light Photoacclimation Rewires Antenna-Photosystem Organization in Cyanobacterial Cells
 
 Analysis code and composite atomic models accompanying:
 
@@ -25,10 +25,10 @@ Scripts used for hsCLEM, subtomogram averaging, spatial analysis of particles, a
 ## Installation
 
 ```bash
-git clone https://github.com/<ORG>/<REPO>.git
-cd <REPO>
+git clone https://github.com/eSveeDee/vanDorst2026_CT-FaRLiP.git
+cd vanDorst2026_CT-FaRLiP
 conda env create -f environment.yml
-conda activate <ENV NAME>
+conda activate ct-farlip
 jupyter lab
 ```
 

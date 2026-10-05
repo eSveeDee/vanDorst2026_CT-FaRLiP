@@ -1,4 +1,4 @@
-name: <ENV NAME>
+name: ct-farlip
 channels:
   - conda-forge
 dependencies:
