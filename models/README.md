@@ -5,20 +5,15 @@ subtomogram averages from this study. They were **not** refined against the
 maps and are provided for illustration and distance analysis only. They are
 therefore not deposited in the PDB.
 
-| File | Description | Fitted into | Source models | Used in |
-|---|---|---|---|---|
-| `<name>.cif.gz` | <e.g. FRL PBS-PSII supercomplex> | EMD-<XXXXX> | <PDB IDs / AlphaFold accessions> | <Fig. X> |
+| File | Description | Fitted into | Source models |
+|---|---|---|---|
+| `frl-PBS-PSII.cif` | *frl*-PBS-PSII supercomplex | EMD-<XXXXX> | 9I1R, 9T5T |
+| `frl-PBS-PSI.cif` | *frl*-PBS-PSI supercomplex | EMD-<XXXXX> | 9I1R, 9EYS |
+| `wl-PBS-PSII.cif` | *wl*-PBS-PSII supercomplex | EMD-<XXXXX> | 7EYD, 7N8O |
 
 ## How they were built
 
-<Software and version, fitting procedure (rigid-body? per chain or per
-subcomplex?), map resolution, any manual adjustment, what was done about
-clashes.>
-
-## Caveats
-
-<Regions of low confidence, missing subunits, interfaces that should not be
-interpreted at side-chain level.>
+Maps were assembled by rigid body fitting in ChimeraX/1.11.
 
 ## Licence
 
