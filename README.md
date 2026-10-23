@@ -1,4 +1,4 @@
-[![DOI Zenodo](https://zenodo.org/badge/1405994748.svg)](https://doi.org/10.5281/zenodo.23168747) [![DOI bioRxiv]( https://doi.org/10.64898/2026.10.21.760696)]( https://doi.org/10.64898/2026.10.21.760696 )
+[![DOI Zenodo](https://zenodo.org/badge/1405994748.svg)](https://doi.org/10.5281/zenodo.23168747) 
 
 # Far-Red Light Photoacclimation Rewires Antenna-Photosystem Organization in Cyanobacterial Cells
 
@@ -46,7 +46,7 @@ python scripts/assign_spline_membrane_angles.py <spline_motl.star> <mpicker_angl
 
 | Data | Accession |
 |---|---|
-| Subtomogram averages | EMD-XXXXX (pending) |
+| Subtomogram averages | EMD-100373-100391 (pending) |
 | Tomograms / tilt series | EMPIAR-XXXXX (pending) |
 | Composite models | this repository, `models/` |
 
