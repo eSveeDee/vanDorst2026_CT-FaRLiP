@@ -1,10 +1,10 @@
-[![DOI](https://zenodo.org/badge/1405994748.svg)](https://doi.org/10.5281/zenodo.23168747)
+[![DOI Zenodo](https://zenodo.org/badge/1405994748.svg)](https://doi.org/10.5281/zenodo.23168747) [![DOI bioRxiv]( https://doi.org/10.64898/2026.10.21.760696)]( https://doi.org/10.64898/2026.10.21.760696 )
 
 # Far-Red Light Photoacclimation Rewires Antenna-Photosystem Organization in Cyanobacterial Cells
 
 Analysis code and composite atomic models accompanying:
 
-> S. van Dorst, V.M. Selinger, D.J. Nürnberg, W. Wietrzynski, B.D. Engel (2026). **Far-Red Light Photoacclimation Rewires Antenna-Photosystem Organization in Cyanobacterial Cells**. Manuscript in preparation.
+> S. van Dorst, V.M. Selinger, D.J. Nürnberg, W. Wietrzynski, B.D. Engel (2026). **Far-Red Light Photoacclimation Rewires Antenna-Photosystem Organization in Cyanobacterial Cells**. _bioRxiv_  https://doi.org/10.64898/2026.10.21.760696
 
 
 Scripts used for hsCLEM, subtomogram averaging, spatial analysis of particles, and pigment distance calculations.
